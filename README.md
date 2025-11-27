@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-我是 NuyoahCh，拥抱开源，创造价值，致力于把复杂的问题讲清楚。
+我是 NuyoahCh，开源驱动，输出价值，让复杂可计算。
 
 <div style="align-items: center; display: flex;">
 <a target='_blank' href="https://github.com/NuyoahCh">
@@ -9,6 +9,4 @@
 </div>
 
 
-欢迎来到我的 Github 主页：
-
-https://github.com/NuyoahCh
+欢迎来到我的 Github 主页 → [github.com/NuyoahCh](https://github.com/NuyoahCh)
