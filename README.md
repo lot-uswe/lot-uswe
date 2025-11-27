@@ -7,3 +7,7 @@
   <img style="display:inline;margin:initial;max-height:140px" src="https://github-readme-stats.vercel.app/api?username=NuyoahCh&count_private=true&hide=prs,contribs&show_icons=true&theme=transparent" />
 </a>
 </div>
+
+欢迎学习我的 Github 主页：
+
+https://github.com/NuyoahCh
